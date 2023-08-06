@@ -3,6 +3,6 @@
 public class Greeter {
   
   public void sayHello() {
-    System.out.println("Hello, World!");
+    System.out.println("Greetings, Earthlings!");
   }
 }
